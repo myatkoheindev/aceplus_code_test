@@ -1,2 +1,2 @@
-# lara_vue
+# lara_react
 Manage System with Laravel and React
